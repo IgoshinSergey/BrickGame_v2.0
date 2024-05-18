@@ -108,3 +108,15 @@ BrickGame v2.0:
 * `make clean` - Удаление ненужных файлов
 
 ## Запуск игры BrickGame v2.0
+
+### Console Line Interface
+
+![brick_game_cli](misc/brick_game_cli.gif)
+
+### Desktop Snake
+
+![brick_game_desktop_snake](misc/brick_game_desktop_snake.gif)
+
+### Desktop Tetris
+
+![brick_game_desktop_tetris](misc/brick_game_desktop_tetris.gif)
