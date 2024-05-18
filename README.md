@@ -109,7 +109,7 @@ BrickGame v2.0:
 
 ## Запуск игры BrickGame v2.0
 
-### Console Line Interface
+### Command-line Interface
 
 ![brick_game_cli](misc/brick_game_cli.gif)
 
